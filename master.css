@@ -1,0 +1,16 @@
+.carousel-inner img{
+	height: 91vh;
+}
+.card{
+	margin-right: 70px;
+}
+.img{
+	margin-right: 70px;
+	width: 25vw;
+	height: 35vh;
+	color: var(--bs-orange);
+}
+.input input,textarea{
+	margin-top: 5px;
+	background-color: var(--bs-purple);
+}
